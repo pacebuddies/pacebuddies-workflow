@@ -1,5 +1,5 @@
 name: strava-api-bridge_build-and-publish
-run-name: Publish Discovery Server image to registry.gitlab.com
+run-name: Publish Strava API Bridge image to registry.gitlab.com
 on: [workflow_dispatch] # manual
 jobs:
   build-publish:
